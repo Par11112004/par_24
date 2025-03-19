@@ -41,6 +41,3 @@ function displayWeather(data) {
     `;
     weatherInfo.style.display = 'block';
 }
-
-
-
