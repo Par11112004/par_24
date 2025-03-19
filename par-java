@@ -1,3 +1,6 @@
+
+
+
 const apiKey = 'YOUR_API_KEY'; // Replace with your OpenWeatherMap API Key
 
 document.getElementById('get-weather-btn').addEventListener('click', function() {
@@ -41,9 +44,6 @@ function displayWeather(data) {
     `;
     weatherInfo.style.display = 'block';
 }
-
-
-
 
 
 
